@@ -9,27 +9,26 @@ ___
 ### Table of Contents:
 - README.md - *This file.*
 
-'''bash
-├── **2012-11-13**  
-│   ├── inputs  
-│   │   ├── Artemis_SWMF_Input_2012.txt  
-│   │   └── Omni_SWMF_Input_2012.txt  
-│   ├── real-indices  
-│   │   ├── 2012-11-13_AE.txt  
-│   │   ├── 2012-11-13_SYMH.txt  
-│   │   └── ampere-2012.txt 
-│   ├── output-indices  
-│   │   ├── LFM  
-│   │   └── SWMF                  
-│   ├── plots  
-│   │   ├── LFM  
-│   │   ├── SWMF  
-│   │   │   ├── indexstats-modelouts.jpg  
-│   │   │   ├── indexstats.jpg  
-│   │   │   └── indices      
-│   │   └── Series-2012.jpg  
-│   ├── Plots.ipynb  
-│   └── stats.ipynb  
-│    
-└── README.md - *This file.*  
-'''
+```bash
+├── 2012-11-13
+│   ├── Plots.ipynb
+│   ├── inputs
+│   │   ├── Artemis_SWMF_Input_2012.txt
+│   │   └── Omni_SWMF_Input_2012.txt
+│   ├── output-indices
+│   │   ├── LFM
+│   │   └── SWMF
+│   ├── plots
+│   │   ├── 2012-11-13-Pearson-normal-cumulative.jpg
+│   │   ├── 2012-11-13-Pearson.jpg
+│   │   ├── LFM
+│   │   ├── OvsA_linregress.jpg
+│   │   ├── SWMF
+│   │   │   ├── indexstats-modelouts-both.jpg
+│   │   │   ├── indexstats.jpg
+│   │   │   └── indices
+│   │   └── Series-2012.jpg
+│   ├── real-indices
+│   └── stats.ipynb
+└── README.md
+```
