@@ -10,32 +10,32 @@ ___
 - README.md - *This file.*
 
 '''
-├── 2012-11-13
-│   │
-│   ├── inputs
-│   │   ├── Artemis_SWMF_Input_2012.txt
-│   │   └── Omni_SWMF_Input_2012.txt
-│   │
-│   ├── output-indices
-│   │   ├── LFM
-│   │   └── SWMF
-│   │                 
-│   ├── plots
-│   │   ├── LFM
-│   │   ├── SWMF
-│   │   │   ├── indexstats-modelouts.jpg
-│   │   │   ├── indexstats.jpg
-│   │   │   └── indices
-│   │   │    
-│   │   └── Series-2012.jpg
-│   │
-│   ├── real-indices
-│   │   ├── 2012-11-13_AE.txt
-│   │   ├── 2012-11-13_SYMH.txt
-│   │   └── ampere-2012.txt
-│   │
-│   ├── Plots.ipynb
-│   └── stats.ipynb
-│  
-└── README.md - *This file.*
+├── 2012-11-13  
+│   │  
+│   ├── inputs  
+│   │   ├── Artemis_SWMF_Input_2012.txt  
+│   │   └── Omni_SWMF_Input_2012.txt  
+│   │  
+│   ├── output-indices  
+│   │   ├── LFM  
+│   │   └── SWMF  
+│   │                   
+│   ├── plots  
+│   │   ├── LFM  
+│   │   ├── SWMF  
+│   │   │   ├── indexstats-modelouts.jpg  
+│   │   │   ├── indexstats.jpg  
+│   │   │   └── indices  
+│   │   │      
+│   │   └── Series-2012.jpg  
+│   │  
+│   ├── real-indices  
+│   │   ├── 2012-11-13_AE.txt  
+│   │   ├── 2012-11-13_SYMH.txt  
+│   │   └── ampere-2012.txt  
+│   │  
+│   ├── Plots.ipynb  
+│   └── stats.ipynb  
+│    
+└── README.md - *This file.*  
 '''
